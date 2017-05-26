@@ -1,0 +1,41 @@
+Aula 
+
+Ao em vez de fazer uma limpeza desse contador vc deve fazer a setagem para 1 !!! Erro Para ficar centrado em -1, 
+
+Pode haver transição de 9 para 15 com o sinal ainda presente da ponta de prova!!!
+
+
+Ao implementar esse grafo !!!!!!!!
+
+--> Resolvendo o problema-- da ponta de entrada o problema está na fase 2(fica preso) e 3 , 4 e 5(fica preso) 
+
+       vou de 2 para quinze quando tenho sinal de comparação !!!! 
+			0,0 permaneço em dois
+			X,1 vou para 15 
+
+	5 faço uma aresta da mesma situação !!!
+
+
+--> Quando eu ligo a máquina eu não tenho nada, tenho valor 0 . Tenho que começar o valor do registrador, com um valor alto!! Começo com o valor máximo, e no estado 7
+eu carrego o normal.....
+
+
+Fig17---> eu não posso ter registrador com valor 0 , coloco todos os bits igual a um 
+
+	fazer um registrador começar com 111111111111111111111  --> numero que caiba o maior periodo , registrador de 20 bits 
+
+	25,175 mega hz algo assim , devo supor 50 - 60 ( ocilação de 20%) 
+
+	25,175/40hz = 629375  em hexa --: ocuba em 5 nibles 
+
+	400 mil 
+
+--> -exemplo de vhdl --> fazer um registrador !!! 
+
+
+---> Ficar sempre com a ponta de prova e continuo a situação, tirei o sinal da ponta de prova, quando fiz isso, e utenho que sair de 2 e ir para quinze tenho que fazer isso em função do sinal de comparação e vai ficar entre 0 e 15 ( nunca tinha tirado a ponta de prova do sinal, tirei a primeira vez, tenho que usar o sinal de comparçaão vai ficar entre 0 e 15 , quando colocar o sinal de novo tenho que estar 2 e 3 sai com o sinal de comparação, também não posso permitir, deve ficar irrelevante o sinal , não existe ainda, nos temos que construir para que ele fique irrelevante no estado dois eeeee outra não sei ---: quer uma uma lógica 
+
+uso comp . para sair do estado 2 
+ja tirei faz um tempo, entrou de novo eu não devo sair com o sinal de comp. não posso ir de 2 a 15, preciso ir de 2 a 3 !!! 
+
+
