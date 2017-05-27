@@ -1,0 +1,5 @@
+State Manchine File 
+
+Por definição, não precisamos colocar a permanencia pois ele ja fica por default.
+
+file -> createupdate ->  createSymbol FIles for current File  
