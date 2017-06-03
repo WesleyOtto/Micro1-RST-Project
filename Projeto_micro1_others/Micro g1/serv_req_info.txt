@@ -1,0 +1,69 @@
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x28746867:
+	0x0a8598b0: edt_sme + 0x198b0 (??0SME_COMPILE_GENERATOR@@QAE@XZ + 0xcc60)
+	</callstack>
+	<error>Current editor: , GED</error>
+	<date>Fri May 06 21:41:51 2016</date>
+	<version>Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition</version>
+	<full_error>Access Violation at 0X28746867
+Current editor: , GED
+Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x28746867:
+	0x0acf98b0: edt_sme + 0x198b0 (??0SME_COMPILE_GENERATOR@@QAE@XZ + 0xcc60)
+	</callstack>
+	<error>Current editor: , GED</error>
+	<date>Fri May 06 21:45:47 2016</date>
+	<version>Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition</version>
+	<full_error>Access Violation at 0X28746867
+Current editor: , GED
+Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>unknown</sub_system>
+	<file>unknown</file>
+	<line>0</line>
+	<callstack>
+	0x28746867:
+	0x0ad398b0: edt_sme + 0x198b0 (??0SME_COMPILE_GENERATOR@@QAE@XZ + 0xcc60)
+	</callstack>
+	<error>Current editor: , GED</error>
+	<date>Fri May 06 21:56:21 2016</date>
+	<version>Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition</version>
+	<full_error>Access Violation at 0X28746867
+Current editor: , GED
+Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus.exe</executable>
+	<sub_system>GED</sub_system>
+	<file>/quartus/edt/ged/ged_glyph.cpp</file>
+	<line>1345</line>
+	<callstack>
+	0x0be93206: edt_ged + 0x53206 (_DllMain@12 + 0x264d6)
+	0x778d59c6: ntdll + 0x659c6 (RtlAllocateHeap + 0x2e0)
+	0x778d59c6: ntdll + 0x659c6 (RtlAllocateHeap + 0x2e0)
+	0x011be120: GCL_CUI + 0x2e120 (??0CUI_RECT_TRACKER@@QAE@PBUtagRECT@@I_NI@Z + 0x50)
+	</callstack>
+	<error>Can&apos;t load object</error>
+	<date>Fri May 06 22:25:12 2016</date>
+	<version>Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition</version>
+	<full_error>Can&apos;t load object
+Quartus II Version 9.0 Build 235 06/17/2009 Service Pack 2 SJ Web Edition </full_error>
+</internal_error>
+

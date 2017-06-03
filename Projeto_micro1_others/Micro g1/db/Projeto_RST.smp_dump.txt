@@ -1,0 +1,19 @@
+
+State Machine - |Projeto_RST|compfase2:inst26|fstate
+Name fstate.state3 fstate.state2 fstate.state1 
+fstate.state1 0 0 0 
+fstate.state2 0 1 1 
+fstate.state3 1 0 1 
+
+State Machine - |Projeto_RST|UCF:inst11|fstate
+Name fstate.Quinze fstate.Nove fstate.Oito fstate.Sete_LD_CL fstate.Cinco fstate.Quatro fstate.Tres fstate.Dois fstate.Um fstate.Zero 
+fstate.Zero 0 0 0 0 0 0 0 0 0 0 
+fstate.Um 0 0 0 0 0 0 0 0 1 1 
+fstate.Dois 0 0 0 0 0 0 0 1 0 1 
+fstate.Tres 0 0 0 0 0 0 1 0 0 1 
+fstate.Quatro 0 0 0 0 0 1 0 0 0 1 
+fstate.Cinco 0 0 0 0 1 0 0 0 0 1 
+fstate.Sete_LD_CL 0 0 0 1 0 0 0 0 0 1 
+fstate.Oito 0 0 1 0 0 0 0 0 0 1 
+fstate.Nove 0 1 0 0 0 0 0 0 0 1 
+fstate.Quinze 1 0 0 0 0 0 0 0 0 1 

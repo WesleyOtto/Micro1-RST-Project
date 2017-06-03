@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Projeto_RST">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto_RST|GeradorRST:inst25|lpm_counter0:inst7|lpm_counter:lpm_counter_component|alt_counter_f10ke:wysi_counter|lpm_constant:$00021" CBX_FILE_NAME="lpm_constant_6d4.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto_RST|lpm_clshift0:inst2|lpm_clshift:lpm_clshift_component" CBX_FILE_NAME="lpm_clshift_ojc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto_RST|GeradorRST:inst25|lpm_counter0:inst7|lpm_counter:lpm_counter_component|alt_counter_f10ke:wysi_counter|lpm_compare:$00023" CBX_FILE_NAME="cmpr_v0g.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto_RST|lpm_counter2:inst18|lpm_counter:lpm_counter_component|alt_counter_f10ke:wysi_counter|lpm_compare:$00010" CBX_FILE_NAME="cmpr_bvf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Projeto_RST|lpm_counter2:inst18|lpm_counter:lpm_counter_component|alt_counter_f10ke:wysi_counter|lpm_constant:$00008" CBX_FILE_NAME="lpm_constant_374.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

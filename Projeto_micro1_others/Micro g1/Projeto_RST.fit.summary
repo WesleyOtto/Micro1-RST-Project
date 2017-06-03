@@ -1,0 +1,10 @@
+Fitter Status : Successful - Fri May 20 22:46:52 2016
+Quartus II Version : 9.0 Build 235 06/17/2009 SP 2 SJ Web Edition
+Revision Name : Projeto_RST
+Top-level Entity Name : Projeto_RST
+Family : FLEX10K
+Device : EPF10K20RC240-4
+Timing Models : Final
+Total logic elements : 220 / 1,152 ( 19 % )
+Total pins : 32 / 189 ( 17 % )
+Total memory bits : 0 / 12,288 ( 0 % )

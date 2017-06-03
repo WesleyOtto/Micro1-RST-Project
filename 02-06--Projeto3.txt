@@ -1,0 +1,22 @@
+se eu entrei no 1 sem nunca ter entrado na ponta de entrada, eu tenho que permitir de 2 para 15 
+
+2 para 15 -> não pode ser simplesmente não entrada e comparação e nunca tirei sinal de comp Flag (abaixada)
+
+
+tenho que dar um novo clear e levantar a flag !
+
+
+faço a limpeza e seto a flag ---> 
+
+
+
+estado cópia -> 
+coloco um estado espelho onde tbm faço a limpeza do contador 1,X , faço clear ( limpo o contador) , mas tenho que setar
+uma flag.
+Abaixo a variavel set flag, mas a váriavel flag não abaixa , espero a nova comparação, quando acontecer a nova comparação
+dai faço a aresta 0 - 15 
+
+   0 - 15 >>>  ~e &  c & flag  
+
+  
+
